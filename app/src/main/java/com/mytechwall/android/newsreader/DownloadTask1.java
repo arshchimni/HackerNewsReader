@@ -83,7 +83,7 @@ public class DownloadTask1 extends AsyncTask<String,Void,HashMap<String,String>>
                     e.printStackTrace();
                 }
 
-            }//test here man
+            }//test here hi
 
             return result;
 
